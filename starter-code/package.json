@@ -1,0 +1,21 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "Code 301 Lab-07",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "code",
+    "301",
+    "lab",
+    "7"
+  ],
+  "author": "Michael Padget & Cameron Bacon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
